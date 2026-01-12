@@ -326,7 +326,7 @@ const Projects = () => {
       ],
       mock: <MockFieldScene />,
       showLovable: false,
-      demoUrl: "#",
+      demoUrl: "https://health-island-adventure-game.vercel.app/",
       githubUrl: "#"
     }
   ];
